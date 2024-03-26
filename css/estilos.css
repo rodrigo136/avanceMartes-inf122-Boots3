@@ -1,0 +1,32 @@
+.alfa-slab one-regular {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.container{
+    background-color: blueviolet;
+    width: 500px;
+    height: 200px;
+}
+.container-fluid{
+    background-color: aqua;
+    margin: 5px;
+    width: 600px;
+    height: 200px;
+}
+.container-sm{
+    background-color: chartreuse;
+    margin: 8px;
+    width: 800px;
+    height: 150px;
+}
+.row{
+    background-color: rgb(0, 255, 255);
+    font-size: large;
+    margin: 5px;
+}
+.col{
+    background-color: brown;
+    margin: 5px;
+}
